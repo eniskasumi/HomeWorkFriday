@@ -1,0 +1,38 @@
+/* EXTERNAL CSS */
+
+
+
+/* background-color: text, rgb, hex */
+
+h2{
+    background-color: green;
+    color: white;
+    /* text decoration: line, overline, underline, lline-throught */
+    text-decoration: underline;
+    text-transform: capitalize;
+    font-weight: bolder;
+    
+
+}
+
+p{
+    font-size: 20px;
+    letter-spacing: 2px;
+    word-spacing: 5px;
+    text-indent: 30px;
+    text-align: center;
+    line-height: 30px;
+    font-family: 'Montserrat', sans-serif;
+    /* we have bold and bolder */
+    font-weight: bold;
+    font-style:italic;
+    
+
+
+
+
+}
+
+
+
+

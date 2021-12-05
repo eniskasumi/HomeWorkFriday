@@ -1,0 +1,20 @@
+body{
+    background-color: #51666f;
+    margin: 20px;
+    padding: 20px;
+}
+.member-card{
+    background-color:  #f7f7f7;
+    width: 25%;
+}
+.member-welcome{
+    font-size: 20px;
+    color: black;
+}
+.member-description{
+    font-size: 15px;
+    color: black;
+}
+.member-name{
+    color: black;
+}

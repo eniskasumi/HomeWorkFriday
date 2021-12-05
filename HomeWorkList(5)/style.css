@@ -1,0 +1,12 @@
+ul{
+    color: brown;
+    list-style-type:square;
+}
+
+ol{
+    color: orange;
+    list-style-type: numeric;
+}
+
+
+
